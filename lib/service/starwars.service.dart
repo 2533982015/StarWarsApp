@@ -1,16 +1,16 @@
 import 'package:startwar_app/common/utils.dart';
-import 'package:startwar_app/service/vehicule.model.dart';
+import 'package:startwar_app/service/vehicle.model.dart';
 
 class StarWarsService {
-  Future<List<VehiculeModel>> getList() async {
+  Future<List<VehicleModel>> getList() async {
     final response =
         await AppUtils.sendRequest(endpoint: 'https://swapi.dev/api/vehicles');
-    return VehiculeModel.vehiculesFromJsonToList(response['results']);
+    return VehicleModel.vehiclesFromJsonToList(response['results']);
   }
 
-  Future<List<VehiculeModel>> search(String name) async {
+  Future<List<VehicleModel>> search(String name) async {
     final response = await AppUtils.sendRequest(
         endpoint: 'https://swapi.dev/api/vehicles?search=$name');
-    return VehiculeModel.vehiculesFromJsonToList(response['results']);
+    return VehicleModel.vehiclesFromJsonToList(response['results']);
   }
 }
