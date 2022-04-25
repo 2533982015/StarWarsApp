@@ -2,6 +2,9 @@
 
 ![Screenshot_1650859103](https://user-images.githubusercontent.com/100048011/165018649-6e4c83b1-3e05-490a-8b82-e53280c9e60e.png)
 
+
+![Screenshot_1650859243](https://user-images.githubusercontent.com/100048011/165018729-0fb84426-9a84-4f73-9f82-538f44865cdb.png)
+
 ## Getting Started!
 
 
