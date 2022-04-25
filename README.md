@@ -1,8 +1,9 @@
 # startwar_app
 
-![Screenshot_1650858800](https://user-images.githubusercontent.com/100048011/165018231-69598078-bdc6-4ca7-a77b-09e985bca37f.png)
+[Screenshot_1650859103](https://user-images.githubusercontent.com/100048011/165018600-6a43e83c-26b6-4315-b127-f4ccf10663f7.png)
 
-## Getting Started
+## Getting Started!
+
 
 This project is a starting point for a Flutter application.
 
