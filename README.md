@@ -1,6 +1,6 @@
 # startwar_app
 
-[Screenshot_1650859103](https://user-images.githubusercontent.com/100048011/165018600-6a43e83c-26b6-4315-b127-f4ccf10663f7.png)
+![Screenshot_1650859103](https://user-images.githubusercontent.com/100048011/165018649-6e4c83b1-3e05-490a-8b82-e53280c9e60e.png)
 
 ## Getting Started!
 
