@@ -1,6 +1,6 @@
 # startwar_app
 
-A new Flutter project.
+![Screenshot_1650858800](https://user-images.githubusercontent.com/100048011/165018231-69598078-bdc6-4ca7-a77b-09e985bca37f.png)
 
 ## Getting Started
 
