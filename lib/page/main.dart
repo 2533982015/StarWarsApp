@@ -80,7 +80,9 @@ class _MainPageState extends State<MainPage> {
       ]),
     );
     return Scaffold(
-      appBar: AppBar(title: Text('Star Wars App')),
+      appBar: AppBar(
+          centerTitle: true,
+          title: Wrap(children: [Icon(Icons.android), Text(' Star Wars')])),
       body: loading
           ? Center(child: CircularProgressIndicator())
           : RefreshIndicator(child: content, onRefresh: () => getList()),
